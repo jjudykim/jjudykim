@@ -57,7 +57,9 @@ iOS를 공부하는 쭈디, 김주향입니다
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjudykim&theme=radical)](https://github.com/jjudykim/github-readme-stats)  
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjudykim&theme=radical&layout=compact)](https://github.com/jjudykim/github-readme-stats)  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="http://mazandi.herokuapp.com/api?handle={jjudy_kim}&theme=dark"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjudykim&theme=radical&layout=compact)](https://github.com/jjudykim/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="http://mazandi.herokuapp.com/api?handle={jjudy_kim}&theme=dark"/>
 
  
   
