@@ -14,13 +14,11 @@ Game과 Graphics를 공부하는 쭈디, 김주향입니다
   ### Link In Bio  
 
   <br/>
-<a href="https://www.instagram.com/jjudy._.kim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/scentof_adonai/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 &nbsp;
-<a href="https://bit.ly/3PLha1P"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.notion.so/About-JJUDY-90b115c80e964d688d6a57a2d5394be3?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 &nbsp;
-<a href="https://velog.io/@jjudykim"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-&nbsp;
-<a href="https://blog.naver.com/jubaaakim"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://velog.io/@jjudykim"><img src="https://img.shields.io/badge/Tistory-eb531f?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 
 ---
@@ -29,11 +27,11 @@ Game과 Graphics를 공부하는 쭈디, 김주향입니다
 
 ### I've Used📚 
   
-##### language
+##### Language
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
   
