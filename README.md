@@ -18,7 +18,7 @@ Game과 Graphics를 공부하는 쭈디, 김주향입니다
 &nbsp;
 <a href="https://www.notion.so/About-JJUDY-90b115c80e964d688d6a57a2d5394be3?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 &nbsp;
-<a href="https://velog.io/@jjudykim"><img src="https://img.shields.io/badge/Tistory-eb531f?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://jjudy99.tistory.com/"><img src="https://img.shields.io/badge/Tistory-eb531f?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 
 ---
