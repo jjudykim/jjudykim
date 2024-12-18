@@ -57,7 +57,7 @@ Game과 Graphics를 공부하는 쭈디, 김주향입니다
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjudykim&theme=radical&layout=compact)](https://github.com/jjudykim/github-readme-stats)
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="http://mazandi.herokuapp.com/api?handle=jjudy_kim&theme=dark"/>
+<img src="http://mazandi.herokuapp.com/api?handle=jjudykim&theme=dark"/>
 
  
   
