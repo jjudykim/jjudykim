@@ -12,7 +12,6 @@
 <br><br>
 
 Thanks for stopping by my GitHub 👋<br>
-I work with Unity, and I find joy in every step of the journey — from Design, Art, Music, Coding 😻<br>
 Every line of code carries a little bit of cat magic — Thanks to Bora 🐾💜<br>
 Enjoy exploring my projects!
 
