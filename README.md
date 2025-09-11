@@ -7,16 +7,16 @@
   <img src="https://user-images.githubusercontent.com/66450769/179933512-8f4344c6-a2db-4429-ad4b-c977382fdd5b.jpg" width="255" align="left" />
 </p>
   
-<h3>Hi there! I'm jjudy🐰</h3>
+### Hi there! I'm jjudy🐰
 <i>A passionate Unity developer crafting casual &amp; mobile games</i>
-<br><br>
+<br>
 
 Thanks for stopping by my GitHub 👋<br>
 Every line of code carries a little bit of cat magic — Thanks to Bora 🐾💜<br>
 Enjoy exploring my projects!
-
-<img src="https://img.shields.io/badge/Contact-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white">
 <br>
+
+### 📬 Contact
 <img src="https://img.shields.io/badge/Gmail-jjudykim0%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Discord-jjudy__kim%236128-7289DA?style=flat-square&logo=discord&logoColor=white">
 
