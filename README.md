@@ -1,65 +1,55 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20jjudy_kim!🐰&fontSize=30&theme=radical)
-
-
-
-
-![쭈디프로필](https://user-images.githubusercontent.com/66450769/179933512-8f4344c6-a2db-4429-ad4b-c977382fdd5b.jpg) 
-
-Game과 Graphics를 공부하는 쭈디, 김주향입니다
-
-<br/>  
-
-  ### Link In Bio  
-
-  <br/>
-<a href="https://www.instagram.com/scentof_adonai/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.notion.so/About-JJUDY-90b115c80e964d688d6a57a2d5394be3?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-&nbsp;
-<a href="https://jjudy99.tistory.com/"><img src="https://img.shields.io/badge/Tistory-eb531f?style=flat-square&logo=Tistory&logoColor=white"/></a>
-
-
----
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=0:D8B4FE,100:FBCFE8&text=%20💜Love%20And%20Cats%20%20Save%20The%20World😺✨&fontSize=34&animation=twinkling&textBg=false&fontColor=3B0764)
 
 <div align="left">
+<p>
+  <img src="https://user-images.githubusercontent.com/66450769/179933512-8f4344c6-a2db-4429-ad4b-c977382fdd5b.jpg" width="255" align="left" />
+</p>
+  
+<h3>Hi there! I'm jjudy🐰</h3>
+<i>A passionate Unity developer crafting casual &amp; mobile games</i>
+<br><br>
 
-### I've Used📚 
+Thanks for stopping by my GitHub 👋<br>
+I work with Unity, and I find joy in every step of the journey — from Design, Art, Music, Coding 😻<br>
+Every line of code carries a little bit of cat magic — Thanks to Bora 🐾💜<br>
+Enjoy exploring my projects!
+
+<img src="https://img.shields.io/badge/Contact-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Gmail-jjudykim0%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Discord-jjudy__kim%236128-7289DA?style=flat-square&logo=discord&logoColor=white">
+
+<div align="left">
+<hr>
   
 ##### Language
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
   
   
   
-##### Tools
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+##### Platforms & Tools
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
+
 
 
 <br/>
-<img src="https://img.shields.io/badge/XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
-<img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/>
+<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
 
 <br/><br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjudykim&theme=radical)](https://github.com/jjudykim/github-readme-stats)  
+<div align="center">
   
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjudykim&theme=radical&layout=compact)](https://github.com/jjudykim/github-readme-stats)
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="http://mazandi.herokuapp.com/api?handle=jjudykim&theme=dark"/>
-
- 
-  
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&theme=radical)
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=0:D8B4FE,100:FBCFE8)
